@@ -1,4 +1,4 @@
 "Hello World!"
 "My name is Lin-SAN0."
 "Nice to meet you."
-"2"
+"0"
